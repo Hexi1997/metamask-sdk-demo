@@ -46,5 +46,6 @@
     "@types/react-dom": "^18.2.6",
     "serve": "^14.2.1",
     "typescript": "^5.1.6"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
