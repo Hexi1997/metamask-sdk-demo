@@ -47,8 +47,5 @@
     "serve": "^14.2.1",
     "typescript": "^5.1.6"
   },
-  "packageManager": "yarn@1.22.22",
-  "engines": {
-    "node": "> 19"
-  }
+  "packageManager": "yarn@1.22.22"
 }
